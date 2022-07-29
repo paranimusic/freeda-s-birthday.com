@@ -1,0 +1,15 @@
+body{}
+h1{
+	color: red;
+	font-family: arial;
+	font-size: 50px;
+	background: #070505;
+	text-align: center;
+	border: yellow 5px solid;
+}
+.container{
+	width 80%;
+	margin: auto;
+	align-items: center;
+
+}
